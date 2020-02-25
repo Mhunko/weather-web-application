@@ -47,3 +47,23 @@ button{
     color: white;
     padding: 1%;
 }
+.social-img{
+    max-width: 3.7%;
+}
+
+.about-head{
+    font-weight: bold;
+    font-size: 1.7em;
+}
+.about-par>a{
+    text-decoration: none;
+    color: #888888;
+}
+#index-head{
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 1em;
+}
+form>input, form>button{
+    font-weight: bold;
+}
